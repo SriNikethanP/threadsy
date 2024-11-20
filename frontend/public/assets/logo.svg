@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- Circle that covers the entire 24x24 canvas -->
+  <circle cx="12" cy="12" r="12" fill="rgb(127, 0, 255)" />
+
+  <!-- Geometric shape inside the circle -->
+  <path d="M 4 10 L 12 2 L 20 10 L 12 18 Z" fill="rgb(26, 26, 26)" />
+
+  <!-- Diagonal lines forming a thread-like appearance -->
+  <line x1="5" y1="10" x2="19" y2="18" stroke="rgb(232, 224, 255)" stroke-width="1"/>
+  <line x1="5" y1="18" x2="19" y2="10" stroke="rgb(232, 224, 255)" stroke-width="1"/>
+</svg>
